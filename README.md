@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chumakov-Anton-I
 - 👀 I’m interested in physics, mathematics and programming languages
-<!--- - 🌱 I’m currently learning ... --->
+- 🌱 I’m currently learning English and C++ programming language
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
 <!--- - 😄 Pronouns: ... --->
